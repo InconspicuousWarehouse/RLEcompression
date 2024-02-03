@@ -19,6 +19,8 @@ aaabbbbcccc
 Po skompresowaniu wynik będzie następujący:
 aa1bb1cc2
 
+***
+
 # RLE (Run-Length Encoding)
 ## Description
 This project implements a text compression technique known as RLE - Run-Length Encoding. This method involves replacing repeated characters with sequences consisting of the repeated letter and the number of consecutive occurrences of that letter. The aim of the project is to demonstrate a practical implementation of this text compression technique.
