@@ -2,7 +2,7 @@
 
 ## Opis
 
-Projekt ten implementuje technikę kompresji tekstu znana jako RLE - Run-Length Encoding. Metoda ta polega na zastępowaniu powtarzających się znaków sekwencjami składającymi się z powtórzonej danej litery i liczby pozostałych wystąpień litery pod rząd. Celem projektu jest zaprezentowanie praktycznej implementacji tej techniki kompresji tekstu.
+Projekt ten implementuje technikę kompresji tekstu znaną jako RLE - Run-Length Encoding. Metoda ta polega na zastępowaniu powtarzających się znaków sekwencjami składającymi się z powtórzonej danej litery i liczby pozostałych wystąpień litery pod rząd. Celem projektu jest zaprezentowanie praktycznej implementacji tej techniki kompresji tekstu.
 
 
 ## Instrukcja użytkowania
