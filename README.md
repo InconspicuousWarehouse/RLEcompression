@@ -28,7 +28,8 @@ Upon launching the program, choose option '1' or 'Q'.
 Enter the absolute path to the text file you wish to compress.
 The program will display the original text, its length, the compressed text, the length of the compressed text, and the compression ratio.
 Choose option '1' to save the compressed text in a new file, which will have "_compressed" appended to its name, or 'Q' to exit the program.
-Example
+
+## Example
 Let's assume you have a text file named text.txt, containing the following text:
 aaabbbbcccc
 After compression, the result will be:
